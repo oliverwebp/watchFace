@@ -6,12 +6,29 @@
 //
 
 import SwiftUI
+import Foundation
+import ClockKit
+
 
 @main
 struct watchdeux_Watch_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ZStack {
+                Image("megumin")
+                    .resizable()
+                    .ignoresSafeArea()
+                ContentView()
+                VStack{
+                    Spacer()
+                    HStack {
+                        Spacer()
+                        Weather().padding([.bottom, .trailing]).frame(maxWidth: .infinity,maxHeight: .infinity, alignment: .bottomTrailing).ignoresSafeArea()
+                        Spacer()
+                    }
+                }
+            }
         }
     }
 }
+

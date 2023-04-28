@@ -7,6 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		557174A829FA9BAD008D89B5 /* Rubik-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749A29FA9BAC008D89B5 /* Rubik-Black.ttf */; };
+		557174A929FA9BAD008D89B5 /* Rubik-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749A29FA9BAC008D89B5 /* Rubik-Black.ttf */; };
+		557174AA29FA9BAD008D89B5 /* Rubik-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749B29FA9BAC008D89B5 /* Rubik-BlackItalic.ttf */; };
+		557174AB29FA9BAD008D89B5 /* Rubik-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749B29FA9BAC008D89B5 /* Rubik-BlackItalic.ttf */; };
+		557174AC29FA9BAD008D89B5 /* Rubik-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749C29FA9BAC008D89B5 /* Rubik-Italic.ttf */; };
+		557174AD29FA9BAD008D89B5 /* Rubik-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749C29FA9BAC008D89B5 /* Rubik-Italic.ttf */; };
+		557174AE29FA9BAD008D89B5 /* Rubik-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749D29FA9BAC008D89B5 /* Rubik-SemiBoldItalic.ttf */; };
+		557174AF29FA9BAD008D89B5 /* Rubik-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749D29FA9BAC008D89B5 /* Rubik-SemiBoldItalic.ttf */; };
+		557174B029FA9BAD008D89B5 /* Rubik-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749E29FA9BAC008D89B5 /* Rubik-ExtraBold.ttf */; };
+		557174B129FA9BAD008D89B5 /* Rubik-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749E29FA9BAC008D89B5 /* Rubik-ExtraBold.ttf */; };
+		557174B229FA9BAD008D89B5 /* Rubik-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749F29FA9BAC008D89B5 /* Rubik-Bold.ttf */; };
+		557174B329FA9BAD008D89B5 /* Rubik-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5571749F29FA9BAC008D89B5 /* Rubik-Bold.ttf */; };
+		557174B429FA9BAD008D89B5 /* Rubik-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A029FA9BAC008D89B5 /* Rubik-Light.ttf */; };
+		557174B529FA9BAD008D89B5 /* Rubik-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A029FA9BAC008D89B5 /* Rubik-Light.ttf */; };
+		557174B629FA9BAD008D89B5 /* Rubik-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A129FA9BAC008D89B5 /* Rubik-LightItalic.ttf */; };
+		557174B729FA9BAD008D89B5 /* Rubik-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A129FA9BAC008D89B5 /* Rubik-LightItalic.ttf */; };
+		557174B829FA9BAD008D89B5 /* Rubik-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A229FA9BAC008D89B5 /* Rubik-Medium.ttf */; };
+		557174B929FA9BAD008D89B5 /* Rubik-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A229FA9BAC008D89B5 /* Rubik-Medium.ttf */; };
+		557174BA29FA9BAD008D89B5 /* Rubik-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A329FA9BAC008D89B5 /* Rubik-Regular.ttf */; };
+		557174BB29FA9BAD008D89B5 /* Rubik-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A329FA9BAC008D89B5 /* Rubik-Regular.ttf */; };
+		557174BC29FA9BAD008D89B5 /* Rubik-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A429FA9BAC008D89B5 /* Rubik-ExtraBoldItalic.ttf */; };
+		557174BD29FA9BAD008D89B5 /* Rubik-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A429FA9BAC008D89B5 /* Rubik-ExtraBoldItalic.ttf */; };
+		557174BE29FA9BAD008D89B5 /* Rubik-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A529FA9BAD008D89B5 /* Rubik-MediumItalic.ttf */; };
+		557174BF29FA9BAD008D89B5 /* Rubik-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A529FA9BAD008D89B5 /* Rubik-MediumItalic.ttf */; };
+		557174C029FA9BAD008D89B5 /* Rubik-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A629FA9BAD008D89B5 /* Rubik-BoldItalic.ttf */; };
+		557174C129FA9BAD008D89B5 /* Rubik-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A629FA9BAD008D89B5 /* Rubik-BoldItalic.ttf */; };
+		557174C229FA9BAD008D89B5 /* Rubik-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A729FA9BAD008D89B5 /* Rubik-SemiBold.ttf */; };
+		557174C329FA9BAD008D89B5 /* Rubik-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 557174A729FA9BAD008D89B5 /* Rubik-SemiBold.ttf */; };
+		557175B229FB6C62008D89B5 /* WeatherResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557175B129FB6C62008D89B5 /* WeatherResponse.swift */; };
+		557175B429FB6CC1008D89B5 /* WeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557175B329FB6CC1008D89B5 /* WeatherModel.swift */; };
+		557175B629FB6CFB008D89B5 /* WeatherCoordinates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557175B529FB6CFB008D89B5 /* WeatherCoordinates.swift */; };
+		557175B829FB6D8D008D89B5 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557175B729FB6D8D008D89B5 /* WeatherManager.swift */; };
+		557175BA29FB6E1D008D89B5 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557175B929FB6E1D008D89B5 /* NetworkManager.swift */; };
+		557175BC29FB7164008D89B5 /* WeatherLocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557175BB29FB7164008D89B5 /* WeatherLocationManager.swift */; };
+		557175BE29FB7471008D89B5 /* CityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557175BD29FB7471008D89B5 /* CityModel.swift */; };
+		557175C029FB769D008D89B5 /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 557175BF29FB769D008D89B5 /* Weather.swift */; };
 		5591D3DF29FA7BAD0027003E /* watchdeux Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 5591D3DE29FA7BAD0027003E /* watchdeux Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		5591D3E429FA7BAD0027003E /* watchdeuxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5591D3E329FA7BAD0027003E /* watchdeuxApp.swift */; };
 		5591D3E629FA7BAD0027003E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5591D3E529FA7BAD0027003E /* ContentView.swift */; };
@@ -42,6 +78,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
+		557175B029FADB5C008D89B5 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5591D40729FA7BAE0027003E /* Embed Watch Content */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -56,6 +102,29 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		5571749A29FA9BAC008D89B5 /* Rubik-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-Black.ttf"; path = "../../../Rubik/static/Rubik-Black.ttf"; sourceTree = "<group>"; };
+		5571749B29FA9BAC008D89B5 /* Rubik-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-BlackItalic.ttf"; path = "../../../Rubik/static/Rubik-BlackItalic.ttf"; sourceTree = "<group>"; };
+		5571749C29FA9BAC008D89B5 /* Rubik-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-Italic.ttf"; path = "../../../Rubik/static/Rubik-Italic.ttf"; sourceTree = "<group>"; };
+		5571749D29FA9BAC008D89B5 /* Rubik-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-SemiBoldItalic.ttf"; path = "../../../Rubik/static/Rubik-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		5571749E29FA9BAC008D89B5 /* Rubik-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-ExtraBold.ttf"; path = "../../../Rubik/static/Rubik-ExtraBold.ttf"; sourceTree = "<group>"; };
+		5571749F29FA9BAC008D89B5 /* Rubik-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-Bold.ttf"; path = "../../../Rubik/static/Rubik-Bold.ttf"; sourceTree = "<group>"; };
+		557174A029FA9BAC008D89B5 /* Rubik-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-Light.ttf"; path = "../../../Rubik/static/Rubik-Light.ttf"; sourceTree = "<group>"; };
+		557174A129FA9BAC008D89B5 /* Rubik-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-LightItalic.ttf"; path = "../../../Rubik/static/Rubik-LightItalic.ttf"; sourceTree = "<group>"; };
+		557174A229FA9BAC008D89B5 /* Rubik-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-Medium.ttf"; path = "../../../Rubik/static/Rubik-Medium.ttf"; sourceTree = "<group>"; };
+		557174A329FA9BAC008D89B5 /* Rubik-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-Regular.ttf"; path = "../../../Rubik/static/Rubik-Regular.ttf"; sourceTree = "<group>"; };
+		557174A429FA9BAC008D89B5 /* Rubik-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-ExtraBoldItalic.ttf"; path = "../../../Rubik/static/Rubik-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		557174A529FA9BAD008D89B5 /* Rubik-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-MediumItalic.ttf"; path = "../../../Rubik/static/Rubik-MediumItalic.ttf"; sourceTree = "<group>"; };
+		557174A629FA9BAD008D89B5 /* Rubik-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-BoldItalic.ttf"; path = "../../../Rubik/static/Rubik-BoldItalic.ttf"; sourceTree = "<group>"; };
+		557174A729FA9BAD008D89B5 /* Rubik-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Rubik-SemiBold.ttf"; path = "../../../Rubik/static/Rubik-SemiBold.ttf"; sourceTree = "<group>"; };
+		557174C429FA9D56008D89B5 /* watchdeux-Watch-App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "watchdeux-Watch-App-Info.plist"; sourceTree = SOURCE_ROOT; };
+		557175B129FB6C62008D89B5 /* WeatherResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherResponse.swift; sourceTree = "<group>"; };
+		557175B329FB6CC1008D89B5 /* WeatherModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherModel.swift; sourceTree = "<group>"; };
+		557175B529FB6CFB008D89B5 /* WeatherCoordinates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherCoordinates.swift; sourceTree = "<group>"; };
+		557175B729FB6D8D008D89B5 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
+		557175B929FB6E1D008D89B5 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		557175BB29FB7164008D89B5 /* WeatherLocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherLocationManager.swift; sourceTree = "<group>"; };
+		557175BD29FB7471008D89B5 /* CityModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityModel.swift; sourceTree = "<group>"; };
+		557175BF29FB769D008D89B5 /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
 		5591D3D829FA7BAD0027003E /* watchdeux.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = watchdeux.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5591D3DE29FA7BAD0027003E /* watchdeux Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "watchdeux Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5591D3E329FA7BAD0027003E /* watchdeuxApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = watchdeuxApp.swift; sourceTree = "<group>"; };
@@ -118,10 +187,33 @@
 		5591D3E229FA7BAD0027003E /* watchdeux Watch App */ = {
 			isa = PBXGroup;
 			children = (
+				557174C429FA9D56008D89B5 /* watchdeux-Watch-App-Info.plist */,
 				5591D3E329FA7BAD0027003E /* watchdeuxApp.swift */,
 				5591D3E529FA7BAD0027003E /* ContentView.swift */,
+				557175BF29FB769D008D89B5 /* Weather.swift */,
+				5571749A29FA9BAC008D89B5 /* Rubik-Black.ttf */,
+				5571749B29FA9BAC008D89B5 /* Rubik-BlackItalic.ttf */,
+				5571749F29FA9BAC008D89B5 /* Rubik-Bold.ttf */,
+				557174A629FA9BAD008D89B5 /* Rubik-BoldItalic.ttf */,
+				5571749E29FA9BAC008D89B5 /* Rubik-ExtraBold.ttf */,
+				557174A429FA9BAC008D89B5 /* Rubik-ExtraBoldItalic.ttf */,
+				5571749C29FA9BAC008D89B5 /* Rubik-Italic.ttf */,
+				557174A029FA9BAC008D89B5 /* Rubik-Light.ttf */,
+				557174A129FA9BAC008D89B5 /* Rubik-LightItalic.ttf */,
+				557174A229FA9BAC008D89B5 /* Rubik-Medium.ttf */,
+				557174A529FA9BAD008D89B5 /* Rubik-MediumItalic.ttf */,
+				557174A329FA9BAC008D89B5 /* Rubik-Regular.ttf */,
+				557174A729FA9BAD008D89B5 /* Rubik-SemiBold.ttf */,
+				5571749D29FA9BAC008D89B5 /* Rubik-SemiBoldItalic.ttf */,
 				5591D3E729FA7BAE0027003E /* Assets.xcassets */,
 				5591D3E929FA7BAE0027003E /* Preview Content */,
+				557175BD29FB7471008D89B5 /* CityModel.swift */,
+				557175B529FB6CFB008D89B5 /* WeatherCoordinates.swift */,
+				557175B329FB6CC1008D89B5 /* WeatherModel.swift */,
+				557175B129FB6C62008D89B5 /* WeatherResponse.swift */,
+				557175B729FB6D8D008D89B5 /* WeatherManager.swift */,
+				557175B929FB6E1D008D89B5 /* NetworkManager.swift */,
+				557175BB29FB7164008D89B5 /* WeatherLocationManager.swift */,
 			);
 			path = "watchdeux Watch App";
 			sourceTree = "<group>";
@@ -178,6 +270,7 @@
 				5591D3DA29FA7BAD0027003E /* Sources */,
 				5591D3DB29FA7BAD0027003E /* Frameworks */,
 				5591D3DC29FA7BAD0027003E /* Resources */,
+				557175B029FADB5C008D89B5 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
@@ -276,6 +369,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				557174AA29FA9BAD008D89B5 /* Rubik-BlackItalic.ttf in Resources */,
+				557174B629FA9BAD008D89B5 /* Rubik-LightItalic.ttf in Resources */,
+				557174B229FA9BAD008D89B5 /* Rubik-Bold.ttf in Resources */,
+				557174BA29FA9BAD008D89B5 /* Rubik-Regular.ttf in Resources */,
+				557174B029FA9BAD008D89B5 /* Rubik-ExtraBold.ttf in Resources */,
+				557174A829FA9BAD008D89B5 /* Rubik-Black.ttf in Resources */,
+				557174AC29FA9BAD008D89B5 /* Rubik-Italic.ttf in Resources */,
+				557174BE29FA9BAD008D89B5 /* Rubik-MediumItalic.ttf in Resources */,
+				557174B829FA9BAD008D89B5 /* Rubik-Medium.ttf in Resources */,
+				557174B429FA9BAD008D89B5 /* Rubik-Light.ttf in Resources */,
+				557174BC29FA9BAD008D89B5 /* Rubik-ExtraBoldItalic.ttf in Resources */,
+				557174C029FA9BAD008D89B5 /* Rubik-BoldItalic.ttf in Resources */,
+				557174AE29FA9BAD008D89B5 /* Rubik-SemiBoldItalic.ttf in Resources */,
+				557174C229FA9BAD008D89B5 /* Rubik-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,7 +390,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				557174A929FA9BAD008D89B5 /* Rubik-Black.ttf in Resources */,
+				557174BB29FA9BAD008D89B5 /* Rubik-Regular.ttf in Resources */,
+				557174B729FA9BAD008D89B5 /* Rubik-LightItalic.ttf in Resources */,
+				557174AD29FA9BAD008D89B5 /* Rubik-Italic.ttf in Resources */,
+				557174BD29FA9BAD008D89B5 /* Rubik-ExtraBoldItalic.ttf in Resources */,
 				5591D3EB29FA7BAE0027003E /* Preview Assets.xcassets in Resources */,
+				557174AF29FA9BAD008D89B5 /* Rubik-SemiBoldItalic.ttf in Resources */,
+				557174C329FA9BAD008D89B5 /* Rubik-SemiBold.ttf in Resources */,
+				557174B529FA9BAD008D89B5 /* Rubik-Light.ttf in Resources */,
+				557174AB29FA9BAD008D89B5 /* Rubik-BlackItalic.ttf in Resources */,
+				557174B329FA9BAD008D89B5 /* Rubik-Bold.ttf in Resources */,
+				557174C129FA9BAD008D89B5 /* Rubik-BoldItalic.ttf in Resources */,
+				557174B129FA9BAD008D89B5 /* Rubik-ExtraBold.ttf in Resources */,
+				557174BF29FA9BAD008D89B5 /* Rubik-MediumItalic.ttf in Resources */,
+				557174B929FA9BAD008D89B5 /* Rubik-Medium.ttf in Resources */,
 				5591D3E829FA7BAE0027003E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -309,8 +430,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				557175BE29FB7471008D89B5 /* CityModel.swift in Sources */,
 				5591D3E629FA7BAD0027003E /* ContentView.swift in Sources */,
+				557175C029FB769D008D89B5 /* Weather.swift in Sources */,
 				5591D3E429FA7BAD0027003E /* watchdeuxApp.swift in Sources */,
+				557175BC29FB7164008D89B5 /* WeatherLocationManager.swift in Sources */,
+				557175B829FB6D8D008D89B5 /* WeatherManager.swift in Sources */,
+				557175BA29FB6E1D008D89B5 /* NetworkManager.swift in Sources */,
+				557175B229FB6C62008D89B5 /* WeatherResponse.swift in Sources */,
+				557175B629FB6CFB008D89B5 /* WeatherCoordinates.swift in Sources */,
+				557175B429FB6CC1008D89B5 /* WeatherModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -469,9 +598,13 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"watchdeux Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = PJ2DMCZJWN;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "watchdeux-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = watchdeux;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Need your location to display weather conditions";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Need your location do display weather conditions";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -498,9 +631,13 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"watchdeux Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = PJ2DMCZJWN;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "watchdeux-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = watchdeux;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "Need your location to display weather conditions";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Need your location do display weather conditions";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -526,6 +663,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PJ2DMCZJWN;
 				INFOPLIST_KEY_CFBundleDisplayName = watchdeux;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.company.watchdeux;
@@ -541,6 +679,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PJ2DMCZJWN;
 				INFOPLIST_KEY_CFBundleDisplayName = watchdeux;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.company.watchdeux;
